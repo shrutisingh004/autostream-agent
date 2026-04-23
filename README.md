@@ -245,5 +245,7 @@ Test the full happy path by entering these messages in sequence:
 
 ---
 <div align="center">
+   
 *Built for ServiceHive's Inflx platform assignment — AutoStream Social-to-Lead Agent*
+
 </div>
