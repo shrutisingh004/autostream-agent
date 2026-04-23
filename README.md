@@ -28,7 +28,7 @@ autostream-agent/
 ### Step 1 — Clone / Download
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/shrutisingh004/autostream-agent.git
 cd autostream-agent
 ```
 
