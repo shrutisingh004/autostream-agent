@@ -1,0 +1,57 @@
+{
+  "company": {
+    "name": "AutoStream",
+    "tagline": "Automated Video Editing Tools for Content Creators",
+    "description": "AutoStream is a SaaS platform that provides AI-powered automated video editing tools designed for content creators on YouTube, Instagram, TikTok, and other platforms. Our tools help creators save time, enhance quality, and grow their audience."
+  },
+  "pricing": {
+    "plans": [
+      {
+        "name": "Basic Plan",
+        "price": "$29/month",
+        "price_value": 29,
+        "features": [
+          "10 videos per month",
+          "720p resolution",
+          "Basic auto-editing",
+          "Standard templates",
+          "Email support"
+        ],
+        "best_for": "Hobbyists and beginners just starting out"
+      },
+      {
+        "name": "Pro Plan",
+        "price": "$79/month",
+        "price_value": 79,
+        "features": [
+          "Unlimited videos",
+          "4K resolution",
+          "AI captions",
+          "Advanced AI editing",
+          "Priority rendering",
+          "Custom branding",
+          "Analytics dashboard",
+          "24/7 support"
+        ],
+        "best_for": "Professional creators and businesses"
+      }
+    ]
+  },
+  "policies": {
+    "refund_policy": "No refunds after 7 days from the date of purchase. Refund requests within the 7-day window will be processed within 5-7 business days.",
+    "support": {
+      "basic": "Email support only, response within 48 hours",
+      "pro": "24/7 support available via chat, email, and phone"
+    },
+    "trial": "No free trial currently available. Basic plan is available at $29/month.",
+    "cancellation": "You can cancel your subscription at any time. Your access continues until the end of the billing period."
+  },
+  "features": {
+    "ai_captions": "Automatically generate accurate captions in 30+ languages using our AI engine. Available on Pro plan only.",
+    "auto_editing": "Our AI analyzes your raw footage and creates polished edits automatically, including cuts, transitions, and music sync.",
+    "templates": "Access to 100+ video templates designed for different platforms (YouTube, Instagram Reels, TikTok).",
+    "4k_rendering": "Export videos in stunning 4K quality with fast cloud rendering (Pro plan only).",
+    "analytics": "Track video performance and audience insights directly within AutoStream (Pro plan)."
+  },
+  "platforms_supported": ["YouTube", "Instagram", "TikTok", "Twitter/X", "LinkedIn", "Facebook"]
+}
