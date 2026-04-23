@@ -1,7 +1,4 @@
 # 🎬 AutoStream AI Sales Agent
-### Social-to-Lead Agentic Workflow — Built with LangGraph + Gemini 1.5 Flash
-
----
 
 ## Overview
 
