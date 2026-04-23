@@ -12,7 +12,7 @@ load_dotenv()
 
 # Step 1 - LOAD KNOWLEDGE BASE (RAG)
 
-def load_knowledge_base(path: str = "autostream_kb.json") -> dict:
+def load_knowledge_base(path: str = "knowledge_base/autostream_kb.json") -> dict:
     with open(path, "r") as f:
         return json.load(f)
 
