@@ -244,5 +244,6 @@ Test the full happy path by entering these messages in sequence:
 6. Enter your platform → Should trigger `mock_lead_capture()`
 
 ---
-
+<div align="center">
 *Built for ServiceHive's Inflx platform assignment — AutoStream Social-to-Lead Agent*
+</div>
